@@ -1,0 +1,19 @@
+# Environments
+.env
+.venv
+env/
+venv/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+
+# Local vector database
+chroma_db/
+
+# Output directories
+reports/
+
+
+
